@@ -71,25 +71,24 @@ namespace Nop.Plugin.Tax.Avalara.Data
                 ["Plugins.Tax.Avalara.ExemptionCertificates.Add.Fail"] = "An error occurred while adding a certificate",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.Add.Success"] = "Certificate added successfully",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.Description"] = @"
-                    <span>Here you can view and manage your certificates.</span><br />
-                    <br />
+                    <h3>Here you can view and manage your certificates.</h3>
                     <p>
                         The certificate document contains information about a customer's eligibility for exemption from sales.<br />
                         When you add a certificate, it will be processed and become available for use in calculating tax exemptions.<br />
                     </p>
-                    <br />
                     <p>
-                        You can also go to <a href=""{0}"" target=""_blank"">CertExpress website</a> where you can follow a step-by-step guide to enter information about your exemption certificates.<br />
-                        The certificates entered will be recorded and automatically linked to your account.<br />
+                        You can also go to <a href=""{0}"" target=""_blank"">CertExpress website</a> where you can follow a step-by-step guide to enter information about your exemption certificates.
                     </p>
-                    <br />                    
-                    <span>If you have any questions, please <a href=""{0}"" target=""_blank"">contact us</a>.</span>",
+                    <p>
+                        The certificates entered will be recorded and automatically linked to your account.
+                    </p>
+                    <p>If you have any questions, please <a href=""{0}"" target=""_blank"">contact us</a>.</p>",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.ExpirationDate"] = "Expiration date",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.ExposureZone"] = "State",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.None"] = "No downloaded certificates yet",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.OrderReview"] = "Tax",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.OrderReview.Applied"] = "Exemption certificate applied",
-                ["Plugins.Tax.Avalara.ExemptionCertificates.OrderReview.None"] = @"You have no valid certificates in the selected region. You can add them in your account on <a href=""{0}"" target=""_blank"">this page</a>.",
+                ["Plugins.Tax.Avalara.ExemptionCertificates.OrderReview.None"] = @"You have no valid certificates in the selected region. You can add them in your account on <a href=""{0}"" target=""_blank"" style=""color: #4ab2f1;"">this page</a>.",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.SignedDate"] = "Signed date",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.Status"] = "Status",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.View"] = "View",
