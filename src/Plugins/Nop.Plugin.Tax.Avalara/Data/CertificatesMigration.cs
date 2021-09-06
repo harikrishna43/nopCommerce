@@ -82,7 +82,7 @@ namespace Nop.Plugin.Tax.Avalara.Data
                     <p>
                         The certificates entered will be recorded and automatically linked to your account.
                     </p>
-                    <p>If you have any questions, please <a href=""{0}"" target=""_blank"">contact us</a>.</p>",
+                    <p>If you have any questions, please <a href=""{1}"" target=""_blank"">contact us</a>.</p>",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.ExpirationDate"] = "Expiration date",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.ExposureZone"] = "State",
                 ["Plugins.Tax.Avalara.ExemptionCertificates.None"] = "No downloaded certificates yet",
